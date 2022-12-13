@@ -81,7 +81,11 @@
     <img src="https://bucket-e101-zoomgle.s3.ap-northeast-2.amazonaws.com/readme/9.PNG" width="80%" height="80%"><br>
     <img src="https://bucket-e101-zoomgle.s3.ap-northeast-2.amazonaws.com/readme/10.PNG" width="80%" height="80%"><br>
     <img src="https://bucket-e101-zoomgle.s3.ap-northeast-2.amazonaws.com/readme/11.PNG" width="80%" height="80%"><br>
+<!--
+### 4. 담당기능
+-->
 
+<!--
 ### 4. 백엔드 디렉토리 구조
 
 ```
@@ -296,5 +300,5 @@
 ├─ yarn.lock
 └─ 참조자료.txt
 ```
-
+-->
 
