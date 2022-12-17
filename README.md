@@ -83,6 +83,11 @@
     <img src="https://bucket-e101-zoomgle.s3.ap-northeast-2.amazonaws.com/readme/11.PNG" width="80%" height="80%"><br>
 <!--
 ### 4. 담당기능
+    - 팀장
+    - 백엔드 API 개발
+    - 서버 구축
+    - 데이터베이스 설계
+    - 프론트 개발
 -->
 
 <!--
