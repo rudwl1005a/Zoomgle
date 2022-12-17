@@ -38,6 +38,14 @@
 <br>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">   -->
 
+<!--
+### 3. 담당기능
+    - 팀장
+    - 백엔드 API 개발
+    - 서버 구축
+    - 데이터베이스 설계
+    - 프론트 개발
+-->
 
 ### 3. 기능 설명
 1. 시작 페이지
@@ -81,14 +89,6 @@
     <img src="https://bucket-e101-zoomgle.s3.ap-northeast-2.amazonaws.com/readme/9.PNG" width="80%" height="80%"><br>
     <img src="https://bucket-e101-zoomgle.s3.ap-northeast-2.amazonaws.com/readme/10.PNG" width="80%" height="80%"><br>
     <img src="https://bucket-e101-zoomgle.s3.ap-northeast-2.amazonaws.com/readme/11.PNG" width="80%" height="80%"><br>
-<!--
-### 4. 담당기능
-    - 팀장
-    - 백엔드 API 개발
-    - 서버 구축
-    - 데이터베이스 설계
-    - 프론트 개발
--->
 
 <!--
 ### 4. 백엔드 디렉토리 구조
