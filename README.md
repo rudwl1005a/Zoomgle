@@ -1,6 +1,8 @@
 # SSAFY 부울경 1반 공통프로젝트 E101
 
 ## 줌글(Zoomgle)
+![StartPageImage](https://user-images.githubusercontent.com/81034311/208440967-02c71853-cdce-45c4-b941-e5bf8cf2db78.png)
+
 
 ### 1. 프로젝트 설명
 ```
@@ -38,16 +40,15 @@
 <br>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">   -->
 
-<!--
 ### 3. 담당기능
-    - 팀장
-    - 백엔드 API 개발
-    - 서버 구축
-    - 데이터베이스 설계
-    - 프론트 개발
--->
+    - 팀장 (개발 컨벤션 및 문서정리 주도, 팀원들 오류 해결)
+    - 백엔드 Rest API(추억사진 저장, 친구추가 및 프론트 요구에 맞춰 전체적으로 수정) 개발
+    - AWS S3 버킷 생성 및 프로젝트와 연동
+    - ubuntu 서버 구축(nginx와 webRTC를 위한 openvidu서버 연동)
+    - 프론트엔드 보드게임 시스템 환경 구성(BGM 등)
+    - 프로젝트 설계 및 DB설계
 
-### 3. 기능 설명
+### 4. 기능 설명
 1. 시작 페이지
     - 클릭 시 페이지 이동<br>
     <img src="https://bucket-e101-zoomgle.s3.ap-northeast-2.amazonaws.com/readme/1.PNG" width="80%" height="80%"><br>
